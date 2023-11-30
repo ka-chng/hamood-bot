@@ -50,5 +50,5 @@
 
 ### Support
 https://discord.gg/76khPtsQnE <= Discord <br/>
-top.gg/bot/765938818527264769 <= top.gg <br/>
+https://top.gg/bot/765938818527264769 <= top.gg <br/>
 https://discord.com/application-directory/765938818527264769 <= Discord Discovery
