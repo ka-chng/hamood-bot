@@ -49,6 +49,6 @@
 - Purge: mass deletes messages from the server, arg="number of messages"
 
 ### Support
-https://discord.gg/76khPtsQnE <= Discord
-top.gg/bot/765938818527264769 <= top.gg
+https://discord.gg/76khPtsQnE <= Discord <br/>
+top.gg/bot/765938818527264769 <= top.gg <br/>
 https://discord.com/application-directory/765938818527264769 <= Discord Discovery
