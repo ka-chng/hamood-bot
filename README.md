@@ -47,3 +47,8 @@
 - Modlog: sets the modlog channel, arg="channel"
 - Mute: times out a reason from the guild, arg="user, reason"
 - Purge: mass deletes messages from the server, arg="number of messages"
+
+### Support
+https://discord.gg/76khPtsQnE <= Discord
+top.gg/bot/765938818527264769 <= top.gg
+https://discord.com/application-directory/765938818527264769 <= Discord Discovery
